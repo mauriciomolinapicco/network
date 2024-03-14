@@ -1,0 +1,47 @@
+#newPost {
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.singlePost {
+    text-align: center;
+    color: antiquewhite;
+    max-width: 800px; /* Ancho máximo para las publicaciones */
+    margin: 0 auto; /* Centra las publicaciones en la pantalla */
+    padding: 20px; /* Añade un poco de espacio alrededor de las publicaciones */
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
+    margin-bottom: 20px; /* Espacio entre publicaciones */
+
+    background-color: #343a40;
+}
+
+.post-content {
+    font-size: larger;
+}
+
+.profile {
+    color: antiquewhite;
+}
+
+#newPost {
+    color: antiquewhite;
+    max-width: 900px; /* Ancho máximo para las publicaciones */
+    margin: 0 auto; /* Centra las publicaciones en la pantalla */
+    padding: 20px; /* Añade un poco de espacio alrededor de las publicaciones */
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
+    margin-bottom: 20px; /* Espacio entre publicaciones */
+
+}
+ #textarea {
+    color: antiquewhite;
+    background-color: #343a40;
+ }
+.profile {
+    text-align: center;
+}
+
+body {
+    background-color: #15202B;
+}
